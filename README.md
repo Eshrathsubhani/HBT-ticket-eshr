@@ -43,16 +43,7 @@ Visit the deployed application: 👉 https://5g5ru-saaaa-aaaai-q3yga-cai.icp0.io
 
 📁 Folder Structure
 
-HBT-ticket-eshr/
-├── backend/                  # Rust canister logic (Internet Computer backend)
-├── frontend/                 # React + Vite frontend app
-├── src/                      # Holds original source layout (optional legacy)
-├── dfx.json                  # DFX configuration for canisters
-├── canister_ids.json         # Deployed canister IDs
-├── Cargo.toml                # Rust workspace configuration
-├── package.json              # Project metadata and frontend scripts
-├── README.md                 # Project documentation
-
+<pre> 📁 <b>HBT-ticket-eshr/</b> ├── 📁 <b>backend/</b> — Rust canister logic (Internet Computer backend) ├── 📁 <b>frontend/</b> — React + Vite frontend app ├── 📁 <b>src/</b> — Legacy source layout (optional, currently unused) ├── 📄 <b>dfx.json</b> — DFX configuration for canisters ├── 📄 <b>canister_ids.json</b> — Deployed canister IDs ├── 📄 <b>Cargo.toml</b> — Rust workspace configuration ├── 📄 <b>package.json</b> — Project metadata and frontend scripts ├── 📄 <b>README.md</b> — Project documentation </pre>
 
 ## 🚀 Getting Started
 
@@ -62,6 +53,7 @@ HBT-ticket-eshr/
 - [DFX CLI](https://internetcomputer.org/docs/current/developer-docs/setup/install)
 - Internet Computer SDK
 - Rust (for backend canisters)
+
 
 ### 🛠️ Local Development
 
@@ -79,8 +71,10 @@ npm run build
 # Go back to root and deploy canisters
 cd ..
 dfx deploy
+```
 
-## 🙋‍♂️ Author
+
+### 🙋‍♂️ Author
 
 Created and maintained by Eshrath Subhani
 
@@ -88,7 +82,8 @@ GitHub: https://github.com/Eshrathsubhani
 
 ## 📄 License
 
-This project is licensed under the MIT License . 
+This project is licensed under the MIT License.
+
 
 
 
