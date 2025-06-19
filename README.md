@@ -6,6 +6,7 @@
 Welcome to the **HBT Ticketing System**, a decentralized application (dApp) deployed on the Internet Computer (IC) blockchain. This project allows event organizers and attendees to create, manage, and validate event tickets securely and transparently — powered by smart contracts.
 
 🔗 This Project Integrates:
+
 🎯 Internet Computer (ICP)
 Backend canisters are written in Rust, deployed via dfx, and interact with the IC blockchain network.
 
@@ -24,7 +25,7 @@ For unit testing key UI components and validating app logic during development.
 🌐 Live Demo
 Visit the deployed application: 👉 https://5g5ru-saaaa-aaaai-q3yga-cai.icp0.io/
 
-🛠 Tech Stack
+
 
 ## 🛠 Tech Stack
 
