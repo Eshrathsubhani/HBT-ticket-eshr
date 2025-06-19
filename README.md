@@ -27,7 +27,7 @@ Visit the deployed application: 👉 https://5g5ru-saaaa-aaaai-q3yga-cai.icp0.io
 🛠 Tech Stack
 
 ## 🛠 Tech Stack
-|----------------------------------|-----------------------------------------------------------------------------------------------| 
+
 | Category                         | Technology / Tool                                                                             |
 |----------------------------------|-----------------------------------------------------------------------------------------------|
 | **Frontend**                     | [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)                                   |
@@ -37,4 +37,3 @@ Visit the deployed application: 👉 https://5g5ru-saaaa-aaaai-q3yga-cai.icp0.io
 | **Blockchain**                   | [Internet Computer (DFINITY)](https://internetcomputer.org/)                                  |
 | **Package Managers**             | [npm](https://www.npmjs.com/) (frontend), [cargo](https://doc.rust-lang.org/cargo/) (backend) |
 | **CLI & Deployment**             | [DFX CLI](https://internetcomputer.org/docs/current/developer-docs/setup/dfx-cli/)            |
-|----------------------------------|-----------------------------------------------------------------------------------------------| 
